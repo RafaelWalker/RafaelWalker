@@ -1,6 +1,6 @@
 - 🔭  Atualmente Trabalhando com Back-End .Net        
  - 🌱 Estudando React, .Net                
-- 📫 Contate-me através do e-mail: rafaelwalkerbatista@gmail.com
+- 📫 Contato: rafaelwalkerbatista@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
